@@ -3,3 +3,5 @@ This is the hello-world repository that contains a place where you store ideas, 
 I have added this line
 
 I have added this line
+
+This is the way to make changes
