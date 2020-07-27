@@ -1,7 +1,1 @@
-# hello-world
-This is the hello-world repository that contains a place where you store ideas, resources, or even share and discuss things with others
-I have added this line
-
-I have added this line
-
-This is the way to make changes
+This is repository is the jetson-nano-emmc yocto build
